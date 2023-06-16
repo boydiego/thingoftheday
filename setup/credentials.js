@@ -1,2 +1,3 @@
-export const SPACE_ID = "4nhaj6wzvnco";
-export const ACCESS_TOKEN = "F91A7b3FyjTFeH0sN6pYIfo6Nu1WZ2byX8Rdc4McGUI";
+export const SPACE_ID = '2s2w0kzbqcmq';
+export const DELIVERY_ACCESS_TOKEN =
+  'FYKlLcUsQVcS1CnFKLoKXai6wKeayiSl81x7YxK1NDY';
